@@ -1,0 +1,24 @@
+{
+	"author": "DesignInk Digital",
+	"description": "A small, importable framework for integrating a WordPress plugin with the DesignInk Plugin Update Server.",
+	"homepage": "https://designinkdigital.com/",
+	"license": "GPL-3.0",
+	"name": "packagist-testing",
+	"version": "1.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/designink-digital/plugin-update-helper"
+	},
+	"bugs": {
+		"url": "https://github.com/designink-digital/plugin-update-helper/issues"
+	},
+	"devDependencies": {
+		"compare-versions": "^3.5.1",
+		"gulp": "^4.0.2",
+		"gulp-json-editor": "^2.5.4",
+		"gulp-prompt": "^1.2.0",
+		"gulp-replace": "^1.0.0",
+		"gulp-util": "^3.0.8",
+		"sprintf-js": "^1.1.2"
+	}
+}

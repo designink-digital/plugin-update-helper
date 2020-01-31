@@ -1,0 +1,13 @@
+{
+	"name": "designink/plugin-update-helper",
+	"description": "A small, importable framework for integrating a WordPress plugin with the DesignInk Plugin Update Server.",
+	"license": "GPL-3.0",
+	"version": "1.0.0",
+	"authors": [{
+		"name": "Kyle Niemiec",
+		"email": "kyle@designinkdigital.com"
+	}],
+	"require": {
+		"designink/designink-wp-framework": "^1.0.1"
+	}
+}
